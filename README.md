@@ -2,7 +2,7 @@
 # link for dataset 
 https://www.kaggle.com/khoongweihao/covid19-xray-dataset-train-test-sets
 # About the dataset
-The dataset can be found from above given link.It contains two directories train and test with images of lungs for checking pneumonia.
+The dataset can be found from above given link.It contains two directories train and test with CT scsn images of lungs.
 # Steps in detecting covid19 virus
 I am using Kaggle kernel.You can use colab or Jupyter notebook.
 
