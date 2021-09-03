@@ -20,4 +20,4 @@ I am using Kaggle kernel.You can use colab or Jupyter notebook.
 
 7.Repeat steps 5 and 6 until you get good visualisation of training and validation loss(i.e. both losses are nearly equal preventing from both overfitting and underfitting).
 
-8.You can Save this model for future use.
+
