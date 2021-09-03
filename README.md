@@ -10,7 +10,7 @@ I am using Kaggle kernel.You can use colab or Jupyter notebook.
 
 2.Load train and test images.
 
-3.Use Image data generator for normalizing,zooming e.t.c for  all images of train and test images
+3.Use Image data generator for normalizing,zooming e.t.c for  all images of train and test datasets
 
 4.Do data Augumentation.
 
